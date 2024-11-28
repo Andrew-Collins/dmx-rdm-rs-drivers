@@ -1,0 +1,15 @@
+[package]
+name = "dmx-rdm-enttec-pro"
+version = "0.0.1-alpha"
+edition = "2021"
+readme = "README.md"
+description = "DMX-RDM driver for the Enttec DMX Pro."
+license = "MIT OR Apache-2.0"
+keywords = ["dmx-rdm"]
+authors = ["TKFRvision <tkfrvision@gmx.de>"]
+repository = "https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers"
+categories = ["hardware-support"]
+
+[dependencies]
+dmx-rdm = { version = "0.0.13-alpha" }
+libftd2xx = "0.33"

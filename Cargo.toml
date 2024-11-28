@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "dmx-rdm-rp2040",
+    "dmx-rdm-ftdi",
+    "dmx-rdm-enttec-pro",
+]
