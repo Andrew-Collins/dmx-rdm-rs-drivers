@@ -9,5 +9,5 @@ The schematic for this board is also [available](https://files.waveshare.com/upl
 ## License
 Licensed under either of Apache License, Version 2.0 or MIT license at your option.
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in dmx-rdm-ftdi by you,
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in dmx-rdm-rp2040 by you,
 as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
